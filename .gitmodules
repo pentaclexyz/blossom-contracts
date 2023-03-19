@@ -2,3 +2,7 @@
 	path = lib/evm
 	url = https://github.com/rmrk-team/evm
 	branch = v0.27.1
+[submodule "lib/snekmate"]
+	path = lib/snekmate
+	url = https://github.com/pcaversaccio/snekmate
+	branch = v0.0.1
